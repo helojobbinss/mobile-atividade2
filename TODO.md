@@ -1,1 +1,0 @@
-- [x] Create comprehensive README.md.\n- [x] Verify tests with `dart test` (All 5 tests passed).\n- [x] Demo app with `dart run bin/main.dart` (Menu displayed successfully).\n- [x] Mark complete.
